@@ -25,7 +25,7 @@ about, Wolfgang Pauli </a></b></li>
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(10).pdf" style="text-decoration:none;">Wolfgang Pauli and Modern Physics</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(11).pdf" style="text-decoration:none;">General Principles of Quantum Mechanics</a></b></li> 
-                                                      
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(12).pdf" style="text-decoration:none;">Pauli and Jung: The Meeting of Two Great Minds </a></b></li>                                                      
                                 
                                 
                                 
