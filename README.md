@@ -9,14 +9,15 @@
 <p><strong>Books:</strong></p>
 <hr>
 <ul>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(1).pdf" style="text-decoration:none;">The Babylonian Talmud </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(2).pdf" style="text-decoration:none;">Mishnayoth - Volume I - Order Zeraim</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(3).pdf" style="text-decoration:none;">The Structured Torah</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(1).pdf" style="text-decoration:none;">A Selected Bibliography of Publications by, and
+about, Wolfgang Pauli </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(2).pdf" style="text-decoration:none;">Beyond the Atom: The Philosophical Thought of Wolfgang Pauli</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(3).pdf" style="text-decoration:none;">Pauli Lectures on Physics: Volume 3, Thermodynamics and the Kinetic Theory of Gases</a></b></li>
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(4).pdf" style="text-decoration:none;">Midrash and Mishnah. A Study in the Early History of the Halakah </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(5).pdf" style="text-decoration:none;">Oral Torah Vs. Written Torah</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(6).pdf" style="text-decoration:none;">The Book of ZOHAR</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(4).pdf" style="text-decoration:none;">Wolfgang Pauli: Wissenschaftlicher Briefwechsel mit Bohr, Einstein, Heisenberg u.a. Band II: 1930-1939 </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(5).pdf" style="text-decoration:none;">The Message of the Atoms: Essays on Wolfgang Pauli and the Unspeakable</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(6).pdf" style="text-decoration:none;">Wolfgang Pauli: Exclusion principle and quantum mechanics (Nobel Lecture)</a></b></li>  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(7).pdf" style="text-decoration:none;">The Book Of Jasher</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(8).pdf" style="text-decoration:none;">The Septuagint Bible</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(7).pdf" style="text-decoration:none;">The Observable: Heisenberg's Philosophy of Quantum Mechanics</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(8).pdf" style="text-decoration:none;">A random walk in science</a></b></li> 
   </ul>
