@@ -20,4 +20,19 @@ about, Wolfgang Pauli </a></b></li>
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(7).pdf" style="text-decoration:none;">The Observable: Heisenberg's Philosophy of Quantum Mechanics</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(8).pdf" style="text-decoration:none;">A random walk in science</a></b></li> 
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(9).pdf" style="text-decoration:none;">Wolfgang Pauli: Writings on Physics and Philosophy</a></b></li>  
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(10).pdf" style="text-decoration:none;">Wolfgang Pauli and Modern Physics</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Translation-of-a-machine-typed-copy-of-a-letter-that-Wolfgang-Pauli-sent-to-a-group-of-physicists/blob/master/wp(11).pdf" style="text-decoration:none;">General Principles of Quantum Mechanics</a></b></li> 
+                                                      
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
   </ul>
